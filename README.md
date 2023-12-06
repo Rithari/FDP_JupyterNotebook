@@ -5,7 +5,7 @@ A Jupyter Notebook server used for data manipulation and analysis of the Footbal
 # Contents
 This repository contains the following files:
 * `books/*.ipynb` - Storytelling notebooks.
-    * `players_ipynb` - Extensive data of football players
+    * `players.ipynb` - Extensive data of football players
     * `player_valuations.ipynb` - Market valuations of football players.
     * `games.ipynb` - Individual games of football.
     * `game_lineups.ipynb` - Lineups of the individual games.
