@@ -13,7 +13,4 @@ This repository contains the following files:
     * `competitions.ipynb` - Leagues and cups.
     * `clubs.ipynb` - Football clubs.
     * `club_games.ipynb` - Games of a football club.
-    * `appearances.ipynb` - Appearances of players in games.
-
-* `*.ipynb` - Parameterized notebooks which will be used to generate data visualizations for experts and fans
-    
+    * `appearances.ipynb` - Appearances of players in games.    
